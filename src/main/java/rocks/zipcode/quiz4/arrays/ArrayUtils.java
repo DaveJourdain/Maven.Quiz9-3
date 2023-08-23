@@ -14,7 +14,7 @@ public class ArrayUtils {
         int middleIndex = 0;
         return new String[]{values[middleIndex]};
     }
-
+//
     public static String getLastElement(String[] values) {
         
         return null;
